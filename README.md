@@ -1,4 +1,4 @@
-its a tracker app to track daily expenses in real time.
+its a tracker app to track daily expenses in real time....
 
 
 # Getting Started with Create React App
